@@ -1,5 +1,5 @@
 # Assignment-get-clean-data
-#Basic assumption : The zip file (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) is downloaded and extracted in the R Home Directory. The directory would need to be set to the UCR file.
+#Basic assumption : The zip file (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) is downloaded and extracted in the R Home Directory. The directory would need to be set to the UCI file. This is done later using the setwd() function.
 
 #install the required packages
 install.packages("data.table")
